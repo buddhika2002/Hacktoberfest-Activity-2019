@@ -1,10 +1,10 @@
 # Enter Profile Details Here
 
 1. Oshada Basnayake - [Oshada Basnayake](https://github.com/oshada97)
-2. Pasindu sandeepa - [Pasindu Aasndeepa](https://github.com/PasinduSan)
-2.
-3.
-4.
+2. DANA             - [Dana](https://github.com/DananjayaBC)
+3. Heaboy			- [Heaboy](https://github.com/heaboyhela)
+
+4. Buddhika 		-[Buddhika](https://github.com/buddhika2002)
 ..
 ..
 ...
